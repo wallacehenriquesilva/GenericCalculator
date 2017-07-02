@@ -1,1 +1,1 @@
-# GenericCalculator
+# Calculadora feita em java usando Generics.
